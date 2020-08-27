@@ -1,13 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8760a5bc-6a4f-4152-81ca-0b209fbe06a7" name="Default Changelist" comment="" />
+    <list default="true" id="8760a5bc-6a4f-4152-81ca-0b209fbe06a7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/stories/color/riziyan-favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.storybook/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/.storybook/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tt-bg.gif" beforeDir="false" afterPath="$PROJECT_DIR$/stories/color/tt-bg.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stories/Color.stories.js" beforeDir="false" afterPath="$PROJECT_DIR$/stories/color/Color.stories.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stories/Color.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/stories/color/Color.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stories/color.css" beforeDir="false" afterPath="$PROJECT_DIR$/stories/color/color.scss" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1gd6C5Sk8oRHndVyi6JewN0ViMM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -20,8 +34,12 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/stories/color" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/stories/color" />
       <recent name="$PROJECT_DIR$/stories/assets" />
       <recent name="$PROJECT_DIR$/stories" />
     </key>
@@ -35,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598431991908</updated>
       <workItem from="1598431992975" duration="3975000" />
-      <workItem from="1598485794450" duration="1661000" />
+      <workItem from="1598485794450" duration="6085000" />
     </task>
     <servers />
   </component>
@@ -47,6 +65,14 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="440" y="173" key="#Plugins/1680.0.1920.1080/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1598432053053" />
+    <state x="693" y="429" key="Github.ShareDialog" timestamp="1598487726460">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="693" y="429" key="Github.ShareDialog/1680.0.1920.1080/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1598487726460" />
+    <state x="565" y="230" key="Github.UntrackedFilesDialog" timestamp="1598487738203">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="565" y="230" key="Github.UntrackedFilesDialog/1680.0.1920.1080/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1598487738203" />
     <state x="341" y="164" key="SettingsEditor" timestamp="1598486126784">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
