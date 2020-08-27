@@ -2,15 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8760a5bc-6a4f-4152-81ca-0b209fbe06a7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/stories/color/riziyan-favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plopfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/burger.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/change-me.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/component/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/component/index.stories.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/component/index.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/part.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/potatoes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/temp.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.storybook/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/.storybook/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tt-bg.gif" beforeDir="false" afterPath="$PROJECT_DIR$/stories/color/tt-bg.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stories/Color.stories.js" beforeDir="false" afterPath="$PROJECT_DIR$/stories/color/Color.stories.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stories/Color.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/stories/color/Color.svelte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stories/color.css" beforeDir="false" afterPath="$PROJECT_DIR$/stories/color/color.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +32,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -38,10 +41,11 @@
       <recent name="$PROJECT_DIR$/stories/color" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$/stories/color" />
       <recent name="$PROJECT_DIR$/stories/assets" />
-      <recent name="$PROJECT_DIR$/stories" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -53,12 +57,24 @@
       <option name="presentableId" value="Default" />
       <updated>1598431991908</updated>
       <workItem from="1598431992975" duration="3975000" />
-      <workItem from="1598485794450" duration="6085000" />
+      <workItem from="1598485794450" duration="9815000" />
     </task>
+    <task id="LOCAL-00001" summary="feat(color)#">
+      <created>1598492417408</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598492417408</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat(color)#" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(color)#" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="173" key="#Plugins" timestamp="1598432053053">
@@ -77,9 +93,13 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="341" y="164" key="SettingsEditor/1680.0.1920.1080/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1598486126784" />
-    <state width="500" height="445" key="SwitcherDM" timestamp="1598487494048">
+    <state width="500" height="445" key="SwitcherDM" timestamp="1598504281438">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="500" height="445" key="SwitcherDM/1680.0.1920.1080/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1598487494048" />
+    <state width="500" height="445" key="SwitcherDM/1680.0.1920.1080/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1598504281438" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1598492419925">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/1680.0.1920.1080/0.0.1680.1050/-1920.0.1920.1080@0.0.1680.1050" timestamp="1598492419925" />
   </component>
 </project>
